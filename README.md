@@ -30,3 +30,4 @@ Express + MongoDB REST API for the Altera task management app.
 ## Free Tier Keep-Alive Tip
 
 Render free web services sleep after 15 minutes of inactivity. Set up a free 10-minute monitor on [cron-job.org](https://cron-job.org) pinging `https://your-app.onrender.com/api/health` to prevent cold starts.
+
